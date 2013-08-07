@@ -94,48 +94,13 @@ The Template
 Every problem is written out in a consistent way with the following
 information:
 
-
-Title
------
-
-Synopsis of the project and what it teaches you.
-
-Setup
------
-
-Required setup to complete the project including required reading and
-what the student needs to install to complete the project successfully.
-
-
-Problem
--------
-
-Complete description of the problem to solve.
-
-
-Requirements
-------------
-
-Required elements to the solution to meet the learning objectives.
-
-
-Hints
------
-
-Any small hints or clues that tell them how to spot if they're doing it
-wrong.
-
-Assessment
-----------
-
-Tests and extra checks to confirm they did it right.
-
-Deep Dive
----------
-
-A list of code files in projects they should read to understand
-what is going on.  No more assuming it works until they know it
-works.
+* _Title_: Synopsis of the project and what it teaches you.
+* _Setup_: Required setup to complete the project including required reading and what the student needs to install to complete the project successfully.
+* _Problem_: Complete description of the problem to solve.
+* _Requirements_: Required elements to the solution to meet the learning objectives.
+* _Hints_: Any small hints or clues that tell them how to spot if they're doing it wrong.
+* _Assessment_: Tests and extra checks to confirm they did it right.
+* _Deep Dive_: A list of code files in projects they should read to understand what is going on.  No more assuming it works until they know it works.
 
 
 Other Languages
