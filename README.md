@@ -82,6 +82,7 @@ Extras
 ------
 
 * cron: Time events are a queue.
+* curses: Adding a fancy progress bar to scp.
 
 
 The Solutions
