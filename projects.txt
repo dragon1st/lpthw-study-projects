@@ -1,0 +1,37 @@
+00.design.md Making Something From Nothing
+01.find.md The File System Is A Dictionary Not A Tree
+02.grep.md Regex Are Not Scary, Scary Regex Are
+03.cp.md Copying Files Fast And Slow
+04.mv.md A Move Is A Rename In The Filesystem Dictionary
+05.rm.md A Remove Deletes From The Dictionary
+06.tail.md A File Is Like A Tape Drive
+07.diff.md A Delta Is A Glorious Thing
+08.config.md Don'T Invent Your Own Config File Format
+09.logging.md You Don'T Need Syslog
+10.syslog.md You Should Centralize Logs With Syslog
+11.fork.md Daemons Are Your Friends
+12.chroot.md Daemons Need Cages
+13.droppriv.md Daemons Can'T Be Trusted
+14.signals.md Daemons Can Be Poked
+15.pidfiles.md Daemons Can Bet Lost
+16.monit.md Daemons Need A Nanny
+17.watcher.md A Daemon That'S A Tattle Tail
+18.mail.md Sending Email Is Easy
+19.sendmail.md Sometimes Email Should Dump To Your Screen
+20.curl.md Getting Things From The Web
+21.webserver.md Everyone Can Make A Web Framework
+22.ssh.md Logging Into Servers Is Best Securely
+23.scp.md Copying To Another Machine (Even Slower)
+24.s3.md Copying To The Cloud
+25.named Pipe.md Everything Is A File (Except When It'S Not)
+26.sockets.md A Socket Is A File (Except When It'S Not)
+27.gevent.md Sockets Do A Lot Of Nothing Most Of The Time
+28.iptables.md Blocking Ninja Network Haxors
+29.blocker.md Daemons Can Do The Blocking
+30.nmap.md Scanning Ports Is Easy And Fun
+31.honeypot.md Scanning Should Not Be Easy
+32.proc.md Daemons Watching Proc Watching Daemons
+33.login.md Watching Logins And Failures
+34.etcpasswd.md Getting The Dirt On Users
+35.stats.md Good Stats Made Easy With One File
+36.nagios.md Watching What Is Going On Everywhere
