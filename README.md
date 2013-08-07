@@ -78,6 +78,11 @@ System Info
 * stats: Good stats made easy with one file.
 * nagios: Watching what is going on everywhere.
 
+Extras
+------
+
+* cron: Time events are a queue.
+
 
 The Solutions
 =============
